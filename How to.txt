@@ -3,6 +3,7 @@ git init
 git pull https://github.com/MysteriB/VizsGyak2025.git
 git remote add origin https://github.com/MysteriB/VizsGyak2025.git
 git branch -M main
+git fetch
 
 
 #Git branchedben dolgozás#
