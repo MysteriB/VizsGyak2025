@@ -8,6 +8,8 @@ git fetch
 
 #Git branchedben dolgozás#
 git checkout -b "neved" origin/"neved"
+#git checkout main
+#git branch -d "neved"
 git checkout "neved"
 
 #Feltöltés#
